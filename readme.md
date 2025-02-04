@@ -1,4 +1,4 @@
-# AI Blog Generator with AWS Bedrock & Lambda
+## Blog Generator with AWS Bedrock & Lambda
 Used llama 3
 
 This demo learning project generates AI-powered blog posts using Amazon Bedrock's LLMs and stores them in S3 via an AWS Lambda function. It is designed to be lightweight and serverless.
