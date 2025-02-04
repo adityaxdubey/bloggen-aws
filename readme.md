@@ -4,7 +4,7 @@ Used llama 3
 This demo learning project generates AI-powered blog posts using Amazon Bedrock's LLMs and stores them in S3 via an AWS Lambda function. It is designed to be lightweight and serverless.
 
 ## Architecture
-![Architecture](infra/architecture.png)
+![Architecture](infra\architecture.png)
 
 ## 🔧 Setup Instructions
 ### **1️⃣ Prerequisites**
